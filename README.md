@@ -1,3 +1,3 @@
 # TarmiGitExercise
-hello there
+hello there, 
 this is my first repository
