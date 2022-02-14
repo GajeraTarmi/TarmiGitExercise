@@ -1,0 +1,13 @@
+.header{
+    color: blue;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.column{
+    display: flex;
+    padding-left: 25px;
+}
+
+img{
+    padding: 20px;
+}
